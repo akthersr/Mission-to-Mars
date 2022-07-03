@@ -42,5 +42,5 @@ Web scraping is a method used by organizations worldwide to extract online data 
 
 ## Screen shot of the final webpage
 
-![]()
+![](https://github.com/akthersr/Mission-to-Mars/blob/main/resources/final.png)
 
