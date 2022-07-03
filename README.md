@@ -1,6 +1,6 @@
 # Mission-to-Mars
 ## Overview
-In this assignment,Robin a junior data scintist have been tasked to build a web appliction that scrapes data from Nasa website on Mars.By using web scraping technique, she pull data from multiple Mars related websites to extract data about the Mission to Mars, save specified information ,store the information  into a database MOngoDB, then present the collected data in a single webpage.
+In this assignment,Robin a junior data scientist have been tasked to build a web appliction that scrapes data from Nasa website on Mars.By using web scraping technique, she pull data from multiple Mars related websites to extract data about the Mission to Mars, save specified information ,store the information  into a database MOngoDB, then present the collected data in a single webpage.
 
 ## Data resource
 
