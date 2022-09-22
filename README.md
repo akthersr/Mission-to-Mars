@@ -4,29 +4,29 @@ In this assignment,Robin a junior data scientist have been tasked to build a web
 
 ## Data resource
 
--BeautifulSoup4
+- BeautifulSoup4
 
--Bootstrap 
+- Bootstrap 
 
--DateTime 
+- DateTime 
 
--Flask  
+- Flask  
 
--html5lib
+- html5lib
 
--Jupyter Notebook 
+- Jupyter Notebook 
 
--MongoDB 
+- MongoDB 
 
--Numpy 
+- Numpy 
 
--Pandas 
+- Pandas 
 
--PyMongo
+- PyMongo
 
--Splinter
+- Splinter
 
--webdriver-manager
+- webdriver-manager
 
 ## Objective 
 
